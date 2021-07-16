@@ -1,0 +1,7 @@
+name: BasicDeath
+version: 1.0-SNAPSHOT
+main: me.mobmaker.basicdeath.BasicDeath
+api-version: 1.17
+prefix: BasicDeath
+authors: [ Mobmaker ]
+description: Improvements to deaths, and also to living!
